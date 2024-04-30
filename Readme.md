@@ -12,3 +12,8 @@
  dentro da branch master digitar  
 
  git merge nome da branch
+
+ # site de codigo unicode
+
+ https://symbl.cc/pt/html-entities/
+ 
